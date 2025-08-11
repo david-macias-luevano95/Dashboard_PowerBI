@@ -5,4 +5,4 @@ slicers, drill-downs, and custom visuals, the dashboard enables quick identifica
 
 
 
-![image](images/Dashboard_blinki.PNG)
+![image](images/dashboard_blinki.PNG)
